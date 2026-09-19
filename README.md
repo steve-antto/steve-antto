@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hey, I'm Steve 👋
 
-<!--
-**steve-antto/steve-antto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer in the making · Full-Stack Developer · Builder
 
-Here are some ideas to get you started:
+I build software that combines **AI, intelligent systems and modern web technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+- 🤖 Machine Learning & AI
+- 🧠 LLMs & AI Agents
+- 🌐 Full-Stack Development
+- 📊 Data Science
+- 🔌 IoT & Embedded Systems
+
+---
+
+## ⚡ What I Build
+
+| Area | Technologies |
+|------|-------------|
+| AI / ML | Python · Scikit-learn · TensorFlow |
+| Backend | FastAPI · Node.js · Express |
+| Frontend | React · TypeScript · HTML · CSS |
+| Database | MongoDB · MySQL · PostgreSQL |
+| AI Systems | LLMs · RAG · AI Agents |
+| IoT | ESP32 · ESP8266 · Arduino |
+| Tools | Git · GitHub · Linux · Docker |
+
+---
+
+## 🚀 Featured Projects
+
+### 🦷 Binu's Dental
+AI-powered dental platform designed to improve the digital healthcare experience.
+
+**TypeScript · JavaScript · AI · Full Stack**
+
+---
+
+### ♿ AI Accessibility
+Exploring AI-based solutions that make technology more accessible.
+
+**JavaScript · AI**
+
+---
+
+### 📚 Wonders Alls Library
+A modern digital library project focused on creating a better way to discover and manage knowledge.
+
+**TypeScript**
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Machine Learning
+       ↓
+Deep Learning
+       ↓
+LLMs & RAG
+       ↓
+AI Agents
+       ↓
+Production AI Systems
