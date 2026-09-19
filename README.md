@@ -32,24 +32,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=steve-antto&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
 
-</div>
-
----
-
-<!-- ========================= -->
-<!--     CONTRIBUTION SNAKE    -->
-<!-- ========================= -->
-
-<div align="center">
-
-## 🐍 My Contribution Journey
-
-<img src="https://raw.githubusercontent.com/steve-antto/steve-antto/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 <div align="center">
