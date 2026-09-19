@@ -30,8 +30,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=steve-antto&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
-
 # 👨‍💻 About Me
 
 <div align="center">
